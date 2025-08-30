@@ -1,0 +1,1 @@
+export QT_PA_PLATFORMTHEME=qt6ct
