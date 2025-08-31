@@ -1,10 +1,10 @@
 [A-Z, a-z]*
-.config/keepassxc
 .z*
 !.zshrc
 .n*
+.bash*
+.profile
+\.steam*
+.drirc
+.gtk*
 .recently-used
-.gtkrc-2.0
-.bash_logout
-.steampath
-.steampid
